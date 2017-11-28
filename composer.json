@@ -1,0 +1,19 @@
+{
+    "name": "rossoneri/pdfparser",
+    "description": "a pdf parser lib",
+    "type": "library",
+    "keywords": ["pdf"],
+    "authors": [
+        {
+            "name": "QiHuajun",
+            "email": "qihjun@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "rossoneri\\pdfparser\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
